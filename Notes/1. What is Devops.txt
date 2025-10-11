@@ -1,0 +1,18 @@
+Devops : 
+It's a set of practices that combine software developemenet 
+Aim an automating and improving the flow of dev -> testing -> deployment
+
+(Developemenet + Operations)
+1. It helps in build faster 
+2. Deployment Safer
+3. Easy to Maintain
+
+
+Complete Life Cycle of DevOps www
+1. Plan
+2. Develop
+3. Build 
+4. Test
+5. Release 
+6. Deploy 
+7. Monitor

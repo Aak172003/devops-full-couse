@@ -1,0 +1,5 @@
+Git is a distributed versional control system 
+But Github is built basd on git 
+
+Github is a cloud based hosting service 
+

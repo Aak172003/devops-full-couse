@@ -1,0 +1,3 @@
+Script -> Text File -> Series of commands that Linux Shell (Bash) will execute 
+
+The Shell scripts it actually follow a method of writing commands , that is simply called as shebang.
