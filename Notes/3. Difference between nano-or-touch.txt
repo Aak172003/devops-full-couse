@@ -1,3 +1,5 @@
 The main difference between touch and nano is their purpose. 
+
 touch is a command-line utility used for creating empty files and updating file timestamps, 
+
 while nano is an interactive command-line text editor used for creating, editing, and saving files with content.  
