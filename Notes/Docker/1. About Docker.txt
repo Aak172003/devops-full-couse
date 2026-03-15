@@ -1,0 +1,4 @@
+Docker engine runs on the Host OS and manages all the containers 
+
+App lives in a container , isolated from the host operating system
+We can run multiple container at a time 

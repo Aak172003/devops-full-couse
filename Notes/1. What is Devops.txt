@@ -2,8 +2,9 @@ Devops :
 It's a set of practices that combine software developemenet 
 Aim an automating and improving the flow of dev -> testing -> deployment
 
-(Developemenet + Operations)
-1. It helps in build faster 
+DevOps -> (Developemenet + Operations)
+DevOps Helps: 
+1. Build faster Application
 2. Deployment Safer
 3. Easy to Maintain
 

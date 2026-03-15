@@ -1,5 +1,10 @@
-Git is a distributed versional control system 
-But Github is built basd on git 
+Git is a distributed versional control system , 
+Git tracks changes in your source code during software developement life period 
 
+But Github is built based on git 
 Github is a cloud based hosting service 
 
+
+
+
+git switch -c branch_name
